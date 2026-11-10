@@ -1,0 +1,25 @@
+﻿waktu_pemrosesan,id_tanaman,lokasi,nama_file,total_piksel,piksel_hijau,persentase_hijau,hsv_bawah,hsv_atas,ukuran_kernel,file_mask
+2026-11-04 08:44:50,P001,Kebun Percobaan,Daun Pepaya Jepang.jpg,722016,687847,95.27,"[25, 35, 30]","[95, 255, 255]",5,outputsApp\masks\P001_DaunPepayaJepang_20261104_084450_153276_mask.png
+2026-11-04 08:46:37,P002,Kebun Percobaan,Papaya leaves.jpg,307200,184955,60.21,"[25, 35, 30]","[95, 255, 255]",5,outputsApp\masks\P002_Papayaleaves_20261104_084637_198534_mask.png
+2026-11-04 08:46:50,P003,Kebun Percobaan,daun pepaya.jpg,962688,424919,44.14,"[25, 35, 30]","[95, 255, 255]",5,outputsApp\masks\P003_daunpepaya_20261104_084650_593064_mask.png
+2026-11-04 08:48:43,P004,Kebun Percobaan,Daun Pepaya Jepang.jpg,722016,667611,92.46,"[35, 35, 30]","[85, 255, 255]",5,outputsApp\masks\P004_DaunPepayaJepang_20261104_084843_923820_mask.png
+2026-11-04 08:52:27,P005,Kebun Percobaan,Daun Pepaya Jepang.jpg,722016,647645,89.7,"[25, 80, 30]","[95, 255, 255]",5,outputsApp\masks\P005_DaunPepayaJepang_20261104_085227_106473_mask.png
+2026-11-04 08:54:12,P006,Kebun Percobaan,Daun Pepaya Jepang.jpg,722016,460394,63.77,"[25, 35, 99]","[95, 255, 255]",5,outputsApp\masks\P006_DaunPepayaJepang_20261104_085412_689375_mask.png
+2026-11-04 08:55:19,P007,Kebun Percobaan,Daun Pepaya Jepang.jpg,722016,686773,95.12,"[25, 35, 30]","[95, 255, 255]",3,outputsApp\masks\P007_DaunPepayaJepang_20261104_085519_858721_mask.png
+2026-11-04 08:55:29,P007,Kebun Percobaan,Daun Pepaya Jepang.jpg,722016,688347,95.34,"[25, 35, 30]","[95, 255, 255]",7,outputsApp\masks\P007_DaunPepayaJepang_20261104_085529_632602_mask.png
+2026-11-04 08:55:36,P007,Kebun Percobaan,Daun Pepaya Jepang.jpg,722016,687732,95.25,"[25, 35, 30]","[95, 255, 255]",9,outputsApp\masks\P007_DaunPepayaJepang_20261104_085536_949067_mask.png
+2026-11-04 08:58:09,P008,Kebun Percobaan,daun pepaya (1).jpg,722016,683264,94.63,"[25, 35, 30]","[95, 255, 255]",5,outputsApp\masks\P008_daunpepaya1_20261104_085809_643006_mask.png
+2026-11-04 09:00:38,P009,Kebun Percobaan,Papaya leaves.jpg,307200,184936,60.2,"[35, 35, 30]","[85, 255, 255]",5,outputsApp\masks\P009_Papayaleaves_20261104_090038_863595_mask.png
+2026-11-04 09:01:37,P0010,Kebun Percobaan,Papaya leaves.jpg,307200,183199,59.64,"[25, 80, 30]","[95, 255, 255]",5,outputsApp\masks\P0010_Papayaleaves_20261104_090137_778449_mask.png
+2026-11-04 09:02:38,P0011,Kebun Percobaan,Papaya leaves.jpg,307200,112222,36.53,"[25, 35, 100]","[95, 255, 255]",5,outputsApp\masks\P0011_Papayaleaves_20261104_090238_310053_mask.png
+2026-11-04 09:05:06,P0012,Kebun Percobaan,Papaya leaves.jpg,307200,183823,59.84,"[25, 35, 30]","[95, 255, 255]",3,outputsApp\masks\P0012_Papayaleaves_20261104_090506_858812_mask.png
+2026-11-04 09:05:14,P0012,Kebun Percobaan,Papaya leaves.jpg,307200,184955,60.21,"[25, 35, 30]","[95, 255, 255]",5,outputsApp\masks\P0012_Papayaleaves_20261104_090514_410823_mask.png
+2026-11-04 09:05:21,P0012,Kebun Percobaan,Papaya leaves.jpg,307200,183356,59.69,"[25, 35, 30]","[95, 255, 255]",7,outputsApp\masks\P0012_Papayaleaves_20261104_090521_192588_mask.png
+2026-11-04 09:05:27,P0012,Kebun Percobaan,Papaya leaves.jpg,307200,182525,59.42,"[25, 35, 30]","[95, 255, 255]",9,outputsApp\masks\P0012_Papayaleaves_20261104_090527_025715_mask.png
+2026-11-04 09:07:19,P0013,Kebun Percobaan,daun pepaya.jpg,962688,421947,43.83,"[35, 35, 30]","[86, 255, 255]",5,outputsApp\masks\P0013_daunpepaya_20261104_090719_517762_mask.png
+2026-11-04 09:08:05,P0014,Kebun Percobaan,daun pepaya.jpg,962688,414335,43.04,"[25, 80, 30]","[95, 255, 255]",5,outputsApp\masks\P0014_daunpepaya_20261104_090805_883657_mask.png
+2026-11-04 09:08:45,P0015,Kebun Percobaan,daun pepaya.jpg,962688,24133,2.51,"[25, 35, 100]","[95, 255, 255]",5,outputsApp\masks\P0015_daunpepaya_20261104_090845_388464_mask.png
+2026-11-04 09:09:33,P0016,Kebun Percobaan,daun pepaya.jpg,962688,451111,46.86,"[25, 35, 30]","[95, 255, 255]",3,outputsApp\masks\P0016_daunpepaya_20261104_090933_042036_mask.png
+2026-11-04 09:09:43,P0016,Kebun Percobaan,daun pepaya.jpg,962688,424919,44.14,"[25, 35, 30]","[95, 255, 255]",5,outputsApp\masks\P0016_daunpepaya_20261104_090943_323610_mask.png
+2026-11-04 09:09:49,P0016,Kebun Percobaan,daun pepaya.jpg,962688,396680,41.21,"[25, 35, 30]","[95, 255, 255]",7,outputsApp\masks\P0016_daunpepaya_20261104_090949_932574_mask.png
+2026-11-04 09:09:55,P0016,Kebun Percobaan,daun pepaya.jpg,962688,356776,37.06,"[25, 35, 30]","[95, 255, 255]",9,outputsApp\masks\P0016_daunpepaya_20261104_090955_532596_mask.png
